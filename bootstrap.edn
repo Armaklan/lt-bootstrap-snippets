@@ -1,0 +1,19 @@
+{:modes {:+ #{:editor.html}}
+ :snippets [
+  {:name "Bootstrap : Col div"
+   :key "bs3-col"
+   :snippet-file "col.snip"
+  }
+  {:name "Bootstrap : Table"
+   :key "bs3-table"
+   :snippet-file "table.snip"
+  }
+  {:name "Bootstrap : Add JS and CSS cdn"
+   :key "bs3-cdn"
+   :snippet-file "cdn.snip"
+  }
+  {:name "Bootstrap : Panel"
+   :key "bs3-panel"
+   :snippet-file "panel.snip"
+  }
+]}
